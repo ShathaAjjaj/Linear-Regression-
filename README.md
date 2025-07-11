@@ -6,7 +6,15 @@ This project uses Linear Regression to predict housing prices in California base
 
 ## 🧠 Model Explanation
 
-Linear Regression models the relationship between a dependent variable and one or more independent variables using a straight line.
+Linear Regression is a supervised machine learning algorithm used to predict a value based on the relationship between variables.
+
+It tries to find the best-fitting straight line through a set of data points.
+
+🎯 When to Use Linear Regression
+
+When your data has a linear relationship (i.e. as x increases, y increases/decreases at a consistent rate).
+
+When you want to predict numbers (like price, age, temperature).
 
 ## ✅ Benefits
 
