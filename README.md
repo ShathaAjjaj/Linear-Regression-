@@ -1,26 +1,26 @@
 # Linear Regression
 
-📖 Description
+## 📖 Description
 
 This project uses Linear Regression to predict housing prices in California based on features like income, age, and room number.
 
-🧠 Model Explanation
+## 🧠 Model Explanation
 
 Linear Regression models the relationship between a dependent variable and one or more independent variables using a straight line.
 
-✅ Benefits
+## ✅ Benefits
 
 Simple and interpretable
 
 Fast and efficient for regression problems
 
-⚠️ Limitations
+## ⚠️ Limitations
 
 Poor performance with non-linear data
 
 Sensitive to outliers and multicollinearity
 
-📊 Dataset
+## 📊 Dataset
 
 Name: California Housing Dataset
 
